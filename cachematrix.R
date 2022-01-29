@@ -1,4 +1,4 @@
-## Coursera Data Science: R Programming , January 29 2022 Github User: Hanna Madadi
+## Coursera Data Science: R Programming , January 29 2022 
 ## Write a short comment describing this function
 makeCacheMatrix <- function(x = matrix()) {
 ## This function creates a special "matrix" object that can cache its inverse
